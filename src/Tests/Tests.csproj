@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net462;net8</TargetFrameworks>
+    <TargetFrameworks>net8</TargetFrameworks>
     <AssemblyName>Tests</AssemblyName>
     <RootNamespace>DbUp.MySql.Tests</RootNamespace>
     <!--    <ImplicitUsings>enable</ImplicitUsings> Can't use implict usings with net46 -->
